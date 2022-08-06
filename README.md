@@ -7,3 +7,5 @@ Hello in here you will find my projects related in **cybersecurity**, **programm
 ![number_asm](img/number_asm.png)  
 
 * **asknumberstack.asm**: asks for numbers until user request stop. finally, shows numbers in reverse order.
+
+![asknumberstack_asm](img/asknumberstack_asm.png)
